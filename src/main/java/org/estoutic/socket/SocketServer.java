@@ -1,4 +1,4 @@
-package org.estoutic;
+package org.estoutic.socket;
 
 import java.io.*;
 import java.net.ServerSocket;
